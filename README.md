@@ -3,7 +3,7 @@ GitHub Example
 
 aaaaa This is a simple example repository that will be used to show how to get started with GitHub. :smile:
 this is;
-add :smile:
+add :thumbsup:
 
 How to Contribute
 =================
