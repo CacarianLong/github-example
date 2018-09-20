@@ -1,9 +1,9 @@
 GitHub Example
 ==============
 
-aaaaa This is a simple example repository that will be used to show how to get started with GitHub.
+aaaaa This is a simple example repository that will be used to show how to get started with GitHub. :smile:
 this is;
-add an emoji :smile:
+add :smile:
 
 How to Contribute
 =================
