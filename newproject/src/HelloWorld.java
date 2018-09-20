@@ -1,4 +1,4 @@
-import javax.swing.JFrame;
+mport javax.swing.JFrame;
 import javax.swing.JLabel;
 public class HelloWorld extends JFrame{
 
