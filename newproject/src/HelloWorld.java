@@ -1,11 +1,11 @@
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-public class HelloWorldFrame extends JFrame{
+public class HelloWorld extends JFrame{
 
 	public static void main(String[] args) {
-		new HelloWorldFrame();
+		new HelloWorld();
 	}
-	HelloWorldFrame() {
+	HelloWorld() {
 		JLabel jlbHelloWorld = new JLabel("Hello World");
 		add(jlbHelloWorld);
 		this.setSize(400, 100);
